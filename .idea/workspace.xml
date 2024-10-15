@@ -4,7 +4,89 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c5c9271-84a5-48ef-9b2d-b09710228e1f" name="Changes" comment="" />
+    <list default="true" id="4c5c9271-84a5-48ef-9b2d-b09710228e1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/A编辑.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/date/日期.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/json/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/json/反序列化.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/model/AcCodeIdentityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/model/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/model/SandboxMapFunctionConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/other/原子类.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/买卖股票的最佳时机.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/二分查找给定值在数组位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/删除数组中等于给定值的元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/删除有序数组中的重复项.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/句子中的最多单词数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/只出现一次的数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/合并两个有序数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/找到数组中出现次数最多的元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/数组反转.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/数组表示整数然后加一.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/杨辉三角.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/重复元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/栈/有效的括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/删除中间节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/删除倒数第n个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/删除排序链表中的重复元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/删除未排序链表中的重复元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/删除链表给定值元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/判断链表是否回文.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/判断链表是否有环.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/合并两个链表不排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/合并两个链表并排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/找到倒数第n个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/找到链表的中间结点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/找到链表相交节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/转换二进制链表为整数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/转换链表为倒序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/链表/转换链表为数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com.cp.test/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/aop/InteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/aop/InteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/aop/InteTestImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/aop/InteTestImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/aop/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/aop/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/aop/NodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/aop/NodeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/json/TestJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/json/TestJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/optional/TestOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/optional/TestOptional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/stream/IfPresentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/stream/IfPresentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/其他/BigDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/other/BigDecimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/其他/BlankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/other/BlankTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/其他/BuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/other/BuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/其他/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/other/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/其他/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/other/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/其他/TestFace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/other/TestFace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/其他/TreeSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/other/TreeSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/其他/内存.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/other/内存.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/其他/函数式接口.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/other/函数式接口.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/其他/判断.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/other/判断.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/IP地址无效化.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/字符串/IP地址无效化.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/找到二维数组中等于给定值的数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/两整数相加.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/位1的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/字符串/位1的个数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/句子中的最多单词数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/回文数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/字符串/回文数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/基于排列构建数组.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/左旋转字符串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/字符串/左旋转字符串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/执行操作后的变量值.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组中不等三元组的数目.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/数组中不等三元组的数目.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组串联.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/数组串联.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/最富有客户的资产总量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/数组/最富有客户的资产总量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/最小公倍数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/最小公倍数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/温度转换.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/统计匹配检索规则的物品数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/字符串/统计匹配检索规则的物品数量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/力扣/设计Goal解析器.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/反射/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/反射/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/模型/Artisan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/model/Artisan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/模型/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/model/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/模型/Merchant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/model/Merchant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/模型/TargetObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/model/TargetObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/模型/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/model/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cp/test/正则/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cp/test/正则/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +107,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
@@ -36,10 +123,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="/opt/data/maven/repository" />
         <option name="mavenHome" value="/opt/maven" />
         <option name="userSettingsFile" value="/opt/maven/conf/settings.xml" />
       </MavenGeneralSettings>
@@ -47,6 +136,21 @@
   </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="11" />
+      <option value="12" />
+      <option value="13" />
+      <option value="14" />
+      <option value="15" />
+      <option value="16" />
+      <option value="100" />
+      <option value="200" />
+      <option value="300" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="sortBySeverity" value="false" />
   </component>
   <component name="ProjectId" id="27pKVjre0QVEz1JkTDpDACBzwKo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -59,22 +163,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.14" />
-    <property name="project.structure.side.proportion" value="0.15932643" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -87,18 +181,124 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.cp.test.aop" />
+      <recent name="com.cp.test.力扣.链表" />
+      <recent name="com.cp.test.model" />
+      <recent name="com.cp.test" />
       <recent name="com.cp.test.其他" />
-      <recent name="" />
+      <recent name="com.cp.test.模型" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="时区" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="date.时区" />
-      <module name="test" />
+  <component name="RunManager" selected="Application.Count">
+    <configuration name="温度转换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cp.test.力扣.数组.温度转换" />
+      <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="date.*" />
+          <option name="PATTERN" value="com.cp.test.力扣.数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="位1的个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cp.test.力扣.字符串.位1的个数" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cp.test.力扣.数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cp.test.stream.Count" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cp.test.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="转换二进制链表为整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cp.test.力扣.链表.转换二进制链表为整数" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cp.test.力扣.链表.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="只出现一次的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cp.test.力扣.数组.只出现一次的数字" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cp.test.力扣.数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="句子中的最多单词数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cp.test.力扣.句子中的最多单词数" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cp.test.力扣.真.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="基于排列构建数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cp.test.力扣.基于排列构建数组" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cp.test.力扣.真.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="句子中的最多单词数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cp.test.力扣.句子中的最多单词数" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cp.test.力扣.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="原子类" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cp.test.其他.原子类" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cp.test.其他.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,17 +328,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -275,6 +464,53 @@
       <workItem from="1694644916960" duration="47000" />
       <workItem from="1694644981291" duration="33000" />
       <workItem from="1694645041825" duration="544000" />
+      <workItem from="1695348850436" duration="2737000" />
+      <workItem from="1695864308564" duration="932000" />
+      <workItem from="1697443272749" duration="741000" />
+      <workItem from="1699344670597" duration="758000" />
+      <workItem from="1700718967861" duration="1563000" />
+      <workItem from="1700722314841" duration="1714000" />
+      <workItem from="1701163658001" duration="30000" />
+      <workItem from="1701756730904" duration="1397000" />
+      <workItem from="1701768183059" duration="352000" />
+      <workItem from="1702259470870" duration="663000" />
+      <workItem from="1702260324342" duration="168000" />
+      <workItem from="1702519972187" duration="45000" />
+      <workItem from="1702520562555" duration="14000" />
+      <workItem from="1702544577289" duration="106000" />
+      <workItem from="1702605082772" duration="461000" />
+      <workItem from="1703211314271" duration="193000" />
+      <workItem from="1703469530390" duration="20000" />
+      <workItem from="1706169048283" duration="1265000" />
+      <workItem from="1706494792799" duration="471000" />
+      <workItem from="1706499231268" duration="298000" />
+      <workItem from="1708220089318" duration="209000" />
+      <workItem from="1708308907968" duration="183000" />
+      <workItem from="1708312764087" duration="671000" />
+      <workItem from="1708394900486" duration="483000" />
+      <workItem from="1710486204502" duration="411000" />
+      <workItem from="1710486982898" duration="274000" />
+      <workItem from="1715667346199" duration="2036000" />
+      <workItem from="1715737115066" duration="594000" />
+      <workItem from="1716363187530" duration="29000" />
+      <workItem from="1716962292211" duration="237000" />
+      <workItem from="1720599604442" duration="18036000" />
+      <workItem from="1721012044078" duration="22481000" />
+      <workItem from="1721118707206" duration="6000" />
+      <workItem from="1721118732353" duration="11965000" />
+      <workItem from="1721271845203" duration="9761000" />
+      <workItem from="1721376140551" duration="297000" />
+      <workItem from="1721616130007" duration="15000" />
+      <workItem from="1721618337083" duration="727000" />
+      <workItem from="1721731226353" duration="1757000" />
+      <workItem from="1722315495527" duration="239000" />
+      <workItem from="1722415492270" duration="87000" />
+      <workItem from="1722590692373" duration="126000" />
+      <workItem from="1724135197748" duration="666000" />
+      <workItem from="1727159988043" duration="102000" />
+      <workItem from="1728466211466" duration="180000" />
+      <workItem from="1728997574334" duration="61000" />
+      <workItem from="1728997666599" duration="584000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,5 @@
 package com.cp.test.aop;
 
-
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
@@ -11,12 +10,6 @@ import org.springframework.stereotype.Component;
 
 import java.lang.annotation.*;
 import java.lang.reflect.Method;
-
-/**
- * @author: jc.cp
- * @date: 2022/11/7 15:35
- * @desc: TODO
- **/
 
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

@@ -26,12 +26,9 @@ public class 最小公倍数 {
             n = r;
         }
 
-        // a 与 b 先取余，除非余数为零，否则将小的数与余数取余，直到余数为零
+        // a 与 n 先取余，除非余数为零，否则将小的数与余数取余，直到余数为零
         while (true) {
-            System.out.println("a = " + a);
-            System.out.println("n = " + n);
             int r = a % n;
-            System.out.println("r = " + r);
             if (r == 0) {
                 return c / n;
             } else {

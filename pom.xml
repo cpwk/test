@@ -23,6 +23,24 @@
     <dependencies>
 
         <dependency>
+            <groupId>com.ipay.iintegration</groupId>
+            <artifactId>iintegration-common-service-facade</artifactId>
+            <version>2.2.0.20231226</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.alipay.datasecurity</groupId>
+            <artifactId>antmasking-java-normal</artifactId>
+            <version>3.3.3</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.alipay.datasecurity</groupId>
+            <artifactId>antmasking-scan</artifactId>
+            <version>3.3.3</version>
+        </dependency>
+
+        <dependency>
             <groupId>org.aspectj</groupId>
             <artifactId>aspectjweaver</artifactId>
         </dependency>

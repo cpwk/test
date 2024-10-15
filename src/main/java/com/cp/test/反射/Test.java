@@ -5,7 +5,7 @@ package com.cp.test.反射;
  * @date: 2022/7/20 15:23
  * @description: TODO
  **/
-import com.cp.test.模型.TargetObject;
+import com.cp.test.model.TargetObject;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
@@ -18,7 +18,7 @@ public class Test {
         /**
          * 获取 TargetObject 类的 Class 对象并且创建 TargetObject 类实例
          */
-        Class<?> targetClass = Class.forName("com.cp.test.模型.TargetObject");
+        Class<?> targetClass = Class.forName("com.cp.test.model.TargetObject");
         TargetObject targetObject = (TargetObject) targetClass.newInstance();
 
         /**

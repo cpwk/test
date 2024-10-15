@@ -4,11 +4,6 @@ package com.cp.test.aop;
 import org.springframework.aop.framework.AopContext;
 import org.springframework.stereotype.Service;
 
-/**
- * @author: jc.cp
- * @date: 2022/11/7 17:04
- * @desc: TODO
- **/
 @Service
 public class InteTestImpl implements InteTest {
 
